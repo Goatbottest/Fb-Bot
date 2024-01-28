@@ -1,0 +1,17 @@
+{
+   "CONFIG": {
+      "BOT_INFO": {
+         "PREFIX": ".",
+         "ADMIN_ID": [
+         "your uid"
+         ],
+         "EMAIL": "EMAIL/PHONE NUMBER/ID",
+         "PASSWORD": "PASSWORD"
+      },
+      "PAGE_ACCOUNTS": {
+         "ACCOUNTS": [
+            "EMAIL|PASS"
+         ]
+      }
+   }
+}
